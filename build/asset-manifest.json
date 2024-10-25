@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d007564.css",
+    "main.js": "/static/js/main.43a856d2.js",
+    "static/media/iphone00.png": "/static/media/iphone00.8ccec6ccda8a01daf043.png",
+    "static/media/BLACK.jpg": "/static/media/BLACK.455e73c8f8e9515bfbd4.jpg",
+    "static/media/45-degree-fabric-light.png": "/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
+    "static/media/cv.pdf": "/static/media/cv.ba98b67535b42dd11172.pdf",
+    "static/media/todolist2.png": "/static/media/todolist2.e776719acf29517243ed.png",
+    "index.html": "/index.html",
+    "main.0d007564.css.map": "/static/css/main.0d007564.css.map",
+    "main.43a856d2.js.map": "/static/js/main.43a856d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d007564.css",
+    "static/js/main.43a856d2.js"
+  ]
+}
